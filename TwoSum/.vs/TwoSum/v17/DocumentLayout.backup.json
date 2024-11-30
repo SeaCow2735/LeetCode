@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "E:\\Workspace\\LeetCode\\TwoSum\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{71B91E7B-F346-453F-8582-0299A6D1FC0B}|TwoSum\\TwoSum.vcxproj|E:\\Workspace\\LeetCode\\TwoSum\\TwoSum\\TwoSum.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{71B91E7B-F346-453F-8582-0299A6D1FC0B}|TwoSum\\TwoSum.vcxproj|solutionrelative:TwoSum\\TwoSum.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "TwoSum.cpp",
+              "DocumentMoniker": "E:\\Workspace\\LeetCode\\TwoSum\\TwoSum\\TwoSum.cpp",
+              "RelativeDocumentMoniker": "TwoSum\\TwoSum.cpp",
+              "ToolTip": "E:\\Workspace\\LeetCode\\TwoSum\\TwoSum\\TwoSum.cpp*",
+              "RelativeToolTip": "TwoSum\\TwoSum.cpp*",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAACcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-11-28T11:07:02.461Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
