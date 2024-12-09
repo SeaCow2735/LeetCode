@@ -1,0 +1,4 @@
+﻿  Add_Binary.cpp
+E:\Workspace\LeetCode\Add_Binary\Add_Binary\Add_Binary.cpp(7,11): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+E:\Workspace\LeetCode\Add_Binary\Add_Binary\Add_Binary.cpp(7,29): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+  Add_Binary.vcxproj -> E:\Workspace\LeetCode\Add_Binary\x64\Debug\Add_Binary.exe
