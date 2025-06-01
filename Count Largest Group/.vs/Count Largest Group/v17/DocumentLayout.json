@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "E:\\Workspace\\LeetCode\\Count Largest Group\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{19A608E1-F85C-4902-BE18-BABD85E2079A}|Count Largest Group\\Count Largest Group.csproj|e:\\workspace\\leetcode\\count largest group\\count largest group\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{19A608E1-F85C-4902-BE18-BABD85E2079A}|Count Largest Group\\Count Largest Group.csproj|solutionrelative:count largest group\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "E:\\Workspace\\LeetCode\\Count Largest Group\\Count Largest Group\\Program.cs",
+              "RelativeDocumentMoniker": "Count Largest Group\\Program.cs",
+              "ToolTip": "E:\\Workspace\\LeetCode\\Count Largest Group\\Count Largest Group\\Program.cs",
+              "RelativeToolTip": "Count Largest Group\\Program.cs",
+              "ViewState": "AgIAAAEAAAAAAAAAAAAAACMAAAAbAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-01T15:52:34.941Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,4 +1,5 @@
 ﻿using System;
+using System.Linq;
 
 namespace Count_Largest_Group
 {
@@ -11,28 +12,28 @@ namespace Count_Largest_Group
             int value=solution.CountLargestGroup(n);
             Console.WriteLine(value);
         }
-        public class Solution {
-            public int CountLargestGroup(int n) {
-                int counter=0;
-                if (n > 10)
+        public class Solution
+        {
+            public int CountLargestGroup(int n)
+            {
+                var groupCounts = new int[4 * 9 + 1];
+                for (var i = 1; i <= n; i++)
                 {
-                    for (int i = 1; i <= n; i++)
-                    {
-                        for (int j = 1; j <= n; j++)
-                        {
-                            if (j / 10 == i)
-                            {
-                                counter++;
-                            }
-                        }
-                    }
+                    groupCounts[DigitSum(i)] += 1;
                 }
-                else
-                {
-                    counter = n;
-                }
+                var max = groupCounts.Max();
+                return groupCounts.Count(gc => gc == max);
+            }
 
-                return counter;
+            private int DigitSum(int x)
+            {
+                var sum = 0;
+                while (x > 0)
+                {
+                    sum += x % 10;
+                    x /= 10;
+                }
+                return sum;
             }
         }
     }
