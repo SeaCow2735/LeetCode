@@ -1,0 +1,6 @@
+E:\Workspace\LeetCode\Valid_Parentheses\Valid_Parentheses\bin\Debug\Valid_Parentheses.exe
+E:\Workspace\LeetCode\Valid_Parentheses\Valid_Parentheses\bin\Debug\Valid_Parentheses.pdb
+E:\Workspace\LeetCode\Valid_Parentheses\Valid_Parentheses\obj\Debug\Valid_Parentheses.csproj.AssemblyReference.cache
+E:\Workspace\LeetCode\Valid_Parentheses\Valid_Parentheses\obj\Debug\Valid_Parentheses.csproj.CoreCompileInputs.cache
+E:\Workspace\LeetCode\Valid_Parentheses\Valid_Parentheses\obj\Debug\Valid_Parentheses.exe
+E:\Workspace\LeetCode\Valid_Parentheses\Valid_Parentheses\obj\Debug\Valid_Parentheses.pdb
