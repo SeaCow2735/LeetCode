@@ -7,19 +7,31 @@
         }
         public class Solution {
             public int MySqrt(int x) {
-                for(int i=1;i<=x/2;i++)
+                if (x == 0) return 0;
+                if (x == 1) return 1;
+                var start = 0;
+                var end = x;
+
+                while (start <= end)
                 {
-                    if (i * i == x)
+                    var mid = (start + end) / 2;
+                    var square = (long)mid*mid;
+
+                    if (square < x)
                     {
-                        return i;
+                        start = mid + 1;
                     }
-                    else if (i * i > x)
+                    else if (square > x)
                     {
-                        return i-1;
+                        end = mid - 1;
+                    }
+                    else
+                    {
+                        return mid;
                     }
                 }
-                if(x<2)
-                return x;
+
+                return end;
             }
         }
     }
