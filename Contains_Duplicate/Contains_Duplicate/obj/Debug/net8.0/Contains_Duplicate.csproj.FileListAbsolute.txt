@@ -1,0 +1,15 @@
+E:\Workspace\LeetCode\Contains_Duplicate\Contains_Duplicate\bin\Debug\net8.0\Contains_Duplicate.exe
+E:\Workspace\LeetCode\Contains_Duplicate\Contains_Duplicate\bin\Debug\net8.0\Contains_Duplicate.deps.json
+E:\Workspace\LeetCode\Contains_Duplicate\Contains_Duplicate\bin\Debug\net8.0\Contains_Duplicate.runtimeconfig.json
+E:\Workspace\LeetCode\Contains_Duplicate\Contains_Duplicate\bin\Debug\net8.0\Contains_Duplicate.dll
+E:\Workspace\LeetCode\Contains_Duplicate\Contains_Duplicate\bin\Debug\net8.0\Contains_Duplicate.pdb
+E:\Workspace\LeetCode\Contains_Duplicate\Contains_Duplicate\obj\Debug\net8.0\Contains_Duplicate.GeneratedMSBuildEditorConfig.editorconfig
+E:\Workspace\LeetCode\Contains_Duplicate\Contains_Duplicate\obj\Debug\net8.0\Contains_Duplicate.AssemblyInfoInputs.cache
+E:\Workspace\LeetCode\Contains_Duplicate\Contains_Duplicate\obj\Debug\net8.0\Contains_Duplicate.AssemblyInfo.cs
+E:\Workspace\LeetCode\Contains_Duplicate\Contains_Duplicate\obj\Debug\net8.0\Contains_Duplicate.csproj.CoreCompileInputs.cache
+E:\Workspace\LeetCode\Contains_Duplicate\Contains_Duplicate\obj\Debug\net8.0\Contains_Duplicate.sourcelink.json
+E:\Workspace\LeetCode\Contains_Duplicate\Contains_Duplicate\obj\Debug\net8.0\Contains_Duplicate.dll
+E:\Workspace\LeetCode\Contains_Duplicate\Contains_Duplicate\obj\Debug\net8.0\refint\Contains_Duplicate.dll
+E:\Workspace\LeetCode\Contains_Duplicate\Contains_Duplicate\obj\Debug\net8.0\Contains_Duplicate.pdb
+E:\Workspace\LeetCode\Contains_Duplicate\Contains_Duplicate\obj\Debug\net8.0\Contains_Duplicate.genruntimeconfig.cache
+E:\Workspace\LeetCode\Contains_Duplicate\Contains_Duplicate\obj\Debug\net8.0\ref\Contains_Duplicate.dll
