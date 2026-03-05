@@ -1,0 +1,6 @@
+E:\Workspace\LeetCode\Contains_Duplicate_II\Contains_Duplicate_II\obj\Debug\Contains_Duplicate_II.csproj.AssemblyReference.cache
+E:\Workspace\LeetCode\Contains_Duplicate_II\Contains_Duplicate_II\obj\Debug\Contains_Duplicate_II.csproj.CoreCompileInputs.cache
+E:\Workspace\LeetCode\Contains_Duplicate_II\Contains_Duplicate_II\bin\Debug\Contains_Duplicate_II.exe
+E:\Workspace\LeetCode\Contains_Duplicate_II\Contains_Duplicate_II\bin\Debug\Contains_Duplicate_II.pdb
+E:\Workspace\LeetCode\Contains_Duplicate_II\Contains_Duplicate_II\obj\Debug\Contains_Duplicate_II.exe
+E:\Workspace\LeetCode\Contains_Duplicate_II\Contains_Duplicate_II\obj\Debug\Contains_Duplicate_II.pdb
