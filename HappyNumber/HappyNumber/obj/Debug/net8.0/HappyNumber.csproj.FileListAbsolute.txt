@@ -1,0 +1,15 @@
+E:\Workspace\LeetCode\HappyNumber\HappyNumber\bin\Debug\net8.0\HappyNumber.exe
+E:\Workspace\LeetCode\HappyNumber\HappyNumber\bin\Debug\net8.0\HappyNumber.deps.json
+E:\Workspace\LeetCode\HappyNumber\HappyNumber\bin\Debug\net8.0\HappyNumber.runtimeconfig.json
+E:\Workspace\LeetCode\HappyNumber\HappyNumber\bin\Debug\net8.0\HappyNumber.dll
+E:\Workspace\LeetCode\HappyNumber\HappyNumber\bin\Debug\net8.0\HappyNumber.pdb
+E:\Workspace\LeetCode\HappyNumber\HappyNumber\obj\Debug\net8.0\HappyNumber.GeneratedMSBuildEditorConfig.editorconfig
+E:\Workspace\LeetCode\HappyNumber\HappyNumber\obj\Debug\net8.0\HappyNumber.AssemblyInfoInputs.cache
+E:\Workspace\LeetCode\HappyNumber\HappyNumber\obj\Debug\net8.0\HappyNumber.AssemblyInfo.cs
+E:\Workspace\LeetCode\HappyNumber\HappyNumber\obj\Debug\net8.0\HappyNumber.csproj.CoreCompileInputs.cache
+E:\Workspace\LeetCode\HappyNumber\HappyNumber\obj\Debug\net8.0\HappyNumber.sourcelink.json
+E:\Workspace\LeetCode\HappyNumber\HappyNumber\obj\Debug\net8.0\HappyNumber.dll
+E:\Workspace\LeetCode\HappyNumber\HappyNumber\obj\Debug\net8.0\refint\HappyNumber.dll
+E:\Workspace\LeetCode\HappyNumber\HappyNumber\obj\Debug\net8.0\HappyNumber.pdb
+E:\Workspace\LeetCode\HappyNumber\HappyNumber\obj\Debug\net8.0\HappyNumber.genruntimeconfig.cache
+E:\Workspace\LeetCode\HappyNumber\HappyNumber\obj\Debug\net8.0\ref\HappyNumber.dll

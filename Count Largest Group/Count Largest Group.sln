@@ -1,0 +1,22 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Count Largest Group", "Count Largest Group\Count Largest Group.csproj", "{19A608E1-F85C-4902-BE18-BABD85E2079A}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BestSolutionForCountLargestGroup", "BestSolutionForCountLargestGroup\BestSolutionForCountLargestGroup.csproj", "{5F79C413-59F2-46A2-AF00-A5B27E43940C}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{19A608E1-F85C-4902-BE18-BABD85E2079A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{19A608E1-F85C-4902-BE18-BABD85E2079A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{19A608E1-F85C-4902-BE18-BABD85E2079A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{19A608E1-F85C-4902-BE18-BABD85E2079A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{5F79C413-59F2-46A2-AF00-A5B27E43940C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5F79C413-59F2-46A2-AF00-A5B27E43940C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5F79C413-59F2-46A2-AF00-A5B27E43940C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5F79C413-59F2-46A2-AF00-A5B27E43940C}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal

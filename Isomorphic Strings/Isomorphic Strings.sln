@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.14.36518.9 d17.14
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Isomorphic Strings", "Isomorphic Strings\Isomorphic Strings.csproj", "{07F522C5-E109-460F-B71C-87B92E645155}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{07F522C5-E109-460F-B71C-87B92E645155}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{07F522C5-E109-460F-B71C-87B92E645155}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{07F522C5-E109-460F-B71C-87B92E645155}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{07F522C5-E109-460F-B71C-87B92E645155}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {A348B904-A272-437A-B64F-0A3A67F19B13}
+	EndGlobalSection
+EndGlobal

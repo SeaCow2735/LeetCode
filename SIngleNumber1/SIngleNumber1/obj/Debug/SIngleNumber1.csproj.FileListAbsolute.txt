@@ -1,0 +1,2 @@
+E:\Workspace\LeetCode\SIngleNumber1\SIngleNumber1\obj\Debug\SIngleNumber1.csproj.AssemblyReference.cache
+E:\Workspace\LeetCode\SIngleNumber1\SIngleNumber1\obj\Debug\SIngleNumber1.csproj.CoreCompileInputs.cache

@@ -1,0 +1,15 @@
+E:\Workspace\LeetCode\Power_of_Two\Power_of_Two\obj\Debug\net9.0\Power_of_Two.GeneratedMSBuildEditorConfig.editorconfig
+E:\Workspace\LeetCode\Power_of_Two\Power_of_Two\obj\Debug\net9.0\Power_of_Two.AssemblyInfoInputs.cache
+E:\Workspace\LeetCode\Power_of_Two\Power_of_Two\obj\Debug\net9.0\Power_of_Two.AssemblyInfo.cs
+E:\Workspace\LeetCode\Power_of_Two\Power_of_Two\obj\Debug\net9.0\Power_of_Two.csproj.CoreCompileInputs.cache
+E:\Workspace\LeetCode\Power_of_Two\Power_of_Two\obj\Debug\net9.0\Power_of_Two.sourcelink.json
+E:\Workspace\LeetCode\Power_of_Two\Power_of_Two\bin\Debug\net9.0\Power_of_Two.exe
+E:\Workspace\LeetCode\Power_of_Two\Power_of_Two\bin\Debug\net9.0\Power_of_Two.deps.json
+E:\Workspace\LeetCode\Power_of_Two\Power_of_Two\bin\Debug\net9.0\Power_of_Two.runtimeconfig.json
+E:\Workspace\LeetCode\Power_of_Two\Power_of_Two\bin\Debug\net9.0\Power_of_Two.dll
+E:\Workspace\LeetCode\Power_of_Two\Power_of_Two\bin\Debug\net9.0\Power_of_Two.pdb
+E:\Workspace\LeetCode\Power_of_Two\Power_of_Two\obj\Debug\net9.0\Power_of_Two.dll
+E:\Workspace\LeetCode\Power_of_Two\Power_of_Two\obj\Debug\net9.0\refint\Power_of_Two.dll
+E:\Workspace\LeetCode\Power_of_Two\Power_of_Two\obj\Debug\net9.0\Power_of_Two.pdb
+E:\Workspace\LeetCode\Power_of_Two\Power_of_Two\obj\Debug\net9.0\Power_of_Two.genruntimeconfig.cache
+E:\Workspace\LeetCode\Power_of_Two\Power_of_Two\obj\Debug\net9.0\ref\Power_of_Two.dll
