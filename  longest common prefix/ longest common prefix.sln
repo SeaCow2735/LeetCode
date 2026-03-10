@@ -1,0 +1,16 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "longest common prefix", " longest common prefix\longest common prefix.csproj", "{145ED987-56FB-4BB3-8696-BFE25445803D}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{145ED987-56FB-4BB3-8696-BFE25445803D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{145ED987-56FB-4BB3-8696-BFE25445803D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{145ED987-56FB-4BB3-8696-BFE25445803D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{145ED987-56FB-4BB3-8696-BFE25445803D}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal

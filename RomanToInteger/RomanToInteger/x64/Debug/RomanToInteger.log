@@ -1,3 +1,0 @@
-﻿  RomanToInteger.cpp
-E:\Workspace\LeetCode\RomanToInteger\RomanToInteger\RomanToInteger.cpp(7,16): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
-  RomanToInteger.vcxproj -> E:\Workspace\LeetCode\RomanToInteger\x64\Debug\RomanToInteger.exe

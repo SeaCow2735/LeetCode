@@ -1,0 +1,6 @@
+E:\Workspace\LeetCode\MaxProfit\MaxProfit\bin\Debug\MaxProfit.exe
+E:\Workspace\LeetCode\MaxProfit\MaxProfit\bin\Debug\MaxProfit.pdb
+E:\Workspace\LeetCode\MaxProfit\MaxProfit\obj\Debug\MaxProfit.csproj.AssemblyReference.cache
+E:\Workspace\LeetCode\MaxProfit\MaxProfit\obj\Debug\MaxProfit.csproj.CoreCompileInputs.cache
+E:\Workspace\LeetCode\MaxProfit\MaxProfit\obj\Debug\MaxProfit.exe
+E:\Workspace\LeetCode\MaxProfit\MaxProfit\obj\Debug\MaxProfit.pdb

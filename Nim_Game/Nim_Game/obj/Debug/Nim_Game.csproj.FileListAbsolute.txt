@@ -1,0 +1,6 @@
+E:\Workspace\LeetCode\Nim_Game\Nim_Game\bin\Debug\Nim_Game.exe
+E:\Workspace\LeetCode\Nim_Game\Nim_Game\bin\Debug\Nim_Game.pdb
+E:\Workspace\LeetCode\Nim_Game\Nim_Game\obj\Debug\Nim_Game.csproj.AssemblyReference.cache
+E:\Workspace\LeetCode\Nim_Game\Nim_Game\obj\Debug\Nim_Game.csproj.CoreCompileInputs.cache
+E:\Workspace\LeetCode\Nim_Game\Nim_Game\obj\Debug\Nim_Game.exe
+E:\Workspace\LeetCode\Nim_Game\Nim_Game\obj\Debug\Nim_Game.pdb

@@ -1,0 +1,16 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PowerOfThree", "PowerOfThree\PowerOfThree.csproj", "{B2CA5145-4618-49F8-B3FC-F932D4CE94FA}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{B2CA5145-4618-49F8-B3FC-F932D4CE94FA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B2CA5145-4618-49F8-B3FC-F932D4CE94FA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B2CA5145-4618-49F8-B3FC-F932D4CE94FA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B2CA5145-4618-49F8-B3FC-F932D4CE94FA}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal

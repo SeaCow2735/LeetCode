@@ -1,0 +1,6 @@
+E:\Workspace\LeetCode\Roman to Integer\Roman to Integer\bin\Debug\Roman_to_Integer.exe
+E:\Workspace\LeetCode\Roman to Integer\Roman to Integer\bin\Debug\Roman_to_Integer.pdb
+E:\Workspace\LeetCode\Roman to Integer\Roman to Integer\obj\Debug\Roman to Integer.csproj.AssemblyReference.cache
+E:\Workspace\LeetCode\Roman to Integer\Roman to Integer\obj\Debug\Roman to Integer.csproj.CoreCompileInputs.cache
+E:\Workspace\LeetCode\Roman to Integer\Roman to Integer\obj\Debug\Roman_to_Integer.exe
+E:\Workspace\LeetCode\Roman to Integer\Roman to Integer\obj\Debug\Roman_to_Integer.pdb
