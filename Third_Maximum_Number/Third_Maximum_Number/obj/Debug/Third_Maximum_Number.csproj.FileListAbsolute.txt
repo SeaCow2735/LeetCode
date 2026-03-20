@@ -1,0 +1,6 @@
+E:\Workspace\LeetCode\Third_Maximum_Number\Third_Maximum_Number\bin\Debug\Third_Maximum_Number.exe
+E:\Workspace\LeetCode\Third_Maximum_Number\Third_Maximum_Number\bin\Debug\Third_Maximum_Number.pdb
+E:\Workspace\LeetCode\Third_Maximum_Number\Third_Maximum_Number\obj\Debug\Third_Maximum_Number.csproj.AssemblyReference.cache
+E:\Workspace\LeetCode\Third_Maximum_Number\Third_Maximum_Number\obj\Debug\Third_Maximum_Number.csproj.CoreCompileInputs.cache
+E:\Workspace\LeetCode\Third_Maximum_Number\Third_Maximum_Number\obj\Debug\Third_Maximum_Number.exe
+E:\Workspace\LeetCode\Third_Maximum_Number\Third_Maximum_Number\obj\Debug\Third_Maximum_Number.pdb
