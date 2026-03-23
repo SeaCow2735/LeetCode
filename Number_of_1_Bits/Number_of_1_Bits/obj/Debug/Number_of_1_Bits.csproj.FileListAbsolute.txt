@@ -1,0 +1,6 @@
+E:\Workspace\LeetCode\Number_of_1_Bits\Number_of_1_Bits\bin\Debug\Number_of_1_Bits.exe
+E:\Workspace\LeetCode\Number_of_1_Bits\Number_of_1_Bits\bin\Debug\Number_of_1_Bits.pdb
+E:\Workspace\LeetCode\Number_of_1_Bits\Number_of_1_Bits\obj\Debug\Number_of_1_Bits.csproj.AssemblyReference.cache
+E:\Workspace\LeetCode\Number_of_1_Bits\Number_of_1_Bits\obj\Debug\Number_of_1_Bits.csproj.CoreCompileInputs.cache
+E:\Workspace\LeetCode\Number_of_1_Bits\Number_of_1_Bits\obj\Debug\Number_of_1_Bits.exe
+E:\Workspace\LeetCode\Number_of_1_Bits\Number_of_1_Bits\obj\Debug\Number_of_1_Bits.pdb
