@@ -1,0 +1,22 @@
+public class Solution {
+    public IList<int> SelfDividingNumbers(int left, int right) {
+        List<int> list = new List<int>();
+
+        for (int i = left; i <= right; i++)
+        {
+            if (i <= 9) { list.Add(i); continue; }
+            int digist = i;
+            bool divisible = true;
+
+            while (digist > 0 && divisible)
+            {
+                divisible = digist % 10 != 0 && i % (digist % 10) == 0;
+                digist /= 10;
+            }
+            
+            if (divisible) list.Add(i);
+        }
+
+        return list;
+    }
+}
